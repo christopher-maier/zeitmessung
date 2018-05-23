@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthSpinnerUI"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.sql.Connection"/>
+<fullyQualifiedTypeName name="java.sql.DriverManager"/>
+<fullyQualifiedTypeName name="java.sql.PreparedStatement"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.table.DatabaseTable"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.field.DatabaseField"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.dao.Dao"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.support.ConnectionSource"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.jdbc.JdbcConnectionSource"/>
+<fullyQualifiedTypeName name="java.sql.SQLException"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.dao.DaoManager"/>
+<fullyQualifiedTypeName name="com.j256.ormlite.table.TableUtils"/>
+</qualifiedTypeNameHistroy>

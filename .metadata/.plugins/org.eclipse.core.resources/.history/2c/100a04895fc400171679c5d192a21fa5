@@ -1,0 +1,50 @@
+package junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class tests {
+
+	@Test
+	public void testPair() {
+		int[] testHand = {};
+	}
+
+	@Test
+	public void testThreeOfAKind() {
+		int[] testHand = {};
+		assertTrue(condition);
+	}
+
+	@Test
+	public void testPoker() {
+		int[] testHand = {};
+	}
+
+	@Test
+	public void testFullHouse() {
+		int[] testHand = {};
+	}
+
+	@Test
+	public void testFlush() {
+		int[] testHand = {};
+	}
+
+	@Test
+	public void testStraight() {
+		int[] testHand = {};
+	}
+
+	@Test
+	public void testStraightFlush() {
+		int[] testHand = {};
+	}
+
+	@Test
+	public void testRoyalFlush() {
+		int[] testHand = {9,10,11,12,13};
+		assertTrue(Zu);
+	}
+}

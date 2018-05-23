@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;Karten&apos; to &apos;Karte&apos;&#x0D;&#x0A;- Original project: &apos;01_Pokersuit&apos;&#x0D;&#x0A;- Original element: &apos;Karten&apos;&#x0D;&#x0A;- Renamed element: &apos;Karte&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Karten&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;{Karten.java[Karten" matchStrategy="1" name="Karte" qualified="false" references="true" similarDeclarations="false" stamp="1506442353607" textual="false" version="1.0"/>
+</session>

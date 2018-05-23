@@ -1,0 +1,41 @@
+package junit;
+
+import static org.junit.Assert.*;
+
+import org.junit.Test;
+
+public class tests {
+
+	@Test
+	public void testPair() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testThreeOfAKind() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testPoker() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testFullHouse() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testFlush() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testStraight() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testStraightFlush() {
+		fail("Not yet implemented");
+	}
+	@Test
+	public void testRoyalFlush() {
+		fail("Not yet implemented");
+	}
+}
